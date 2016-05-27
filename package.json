@@ -1,0 +1,8 @@
+{
+  "name": "download",
+  "description": "kirby download tag",
+  "author": "Timo Schneider",
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "kirby-tag"
+}
